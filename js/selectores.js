@@ -1,0 +1,12 @@
+// variables
+export const mascotaInput = document.getElementById('mascota')
+export const propietarioInput = document.getElementById('propietario')
+export const telefonoInput = document.getElementById('telefono')
+export const inputFecha = document.getElementById('fecha')
+export const horaInput = document.getElementById('hora')
+export const sintomasInput = document.getElementById('sintomas')
+
+// UI
+
+export const formulario = document.getElementById('nueva-cita')
+export const contenedorCitas = document.getElementById('citas') 
